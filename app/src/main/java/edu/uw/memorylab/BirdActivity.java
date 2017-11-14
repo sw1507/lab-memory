@@ -8,6 +8,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageView;
 
+/**
+ * birdActiivty
+ */
 public class BirdActivity extends AppCompatActivity {
 
     @Override
